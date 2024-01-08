@@ -96,11 +96,11 @@ Each endpoint must include the necessary data in the request body or URL paramet
 
 ## Screenshots:
 ### Figure 1. Screenshot.
-![Screenshot1](public/assets/images/image.png)
+![Alt text](public/assets/images/image.png)
 
-![Screenshot2](assets/images/image-1.png)
+![Alt text](public/assets/images/image-1.png)
 
-![Screenshot3](assets/images/image-2.png)
+![Alt text](public/assets/images/image-2.png)
  
 
 ## Installation Process:
