@@ -54,10 +54,6 @@ WHEN I test API POST and DELETE routes in Insomnia
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 ```
 
-## GIF:
-### Figure 1. GIF.
-
-#### The following animation demonstrates the application functionality:
 
 ## Usage Instructions:
 
@@ -158,7 +154,5 @@ SOFTWARE.
 ## Author
 
 Follow me on Github at [Yves Harry Deslouches](https://github.com/YvesHarry)! Additional questions or concerns? feel free to contact me at yhdeslouches@hotmail.com.
-
-Until next, Koodos!
 
 © 2023 [Yves Harry Deslouches](https://github.com/YvesHarry). Confidential and Proprietary. All Rights Reserved.
