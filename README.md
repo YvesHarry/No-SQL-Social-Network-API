@@ -94,14 +94,6 @@ Each endpoint must include the necessary data in the request body or URL paramet
 ## Walkthrough Video:
 [Click Here to Watch](https://drive.google.com/file/d/1ala3Oh2_gqqsCyTMarV0FFwj0hVaIdT5/view)
 
-## Screenshots:
-### Figure 1. Screenshot.
-![Alt text](public/assets/images/image.png)
-
-![Alt text](public/assets/images/image-1.png)
-
-![Alt text](public/assets/images/image-2.png)
- 
 
 ## Installation Process:
 1. Clone the Repository from GitHub (or) Download Zip Folder from Repository from GitHub.
