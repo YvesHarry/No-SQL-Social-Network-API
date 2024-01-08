@@ -92,10 +92,15 @@ Each endpoint must include the necessary data in the request body or URL paramet
 [GitHub Repository:](https://github.com/YvesHarry/YHD-NoSQL-Social-Network-API)
 
 ## Walkthrough Video:
-[Click Here to Watch]
+[Click Here to Watch](https://drive.google.com/file/d/1ala3Oh2_gqqsCyTMarV0FFwj0hVaIdT5/view)
 
 ## Screenshots:
 ### Figure 1. Screenshot.
+![Screenshot1](public/assets/images/image.png)
+
+![Screenshot2](assets/images/image-1.png)
+
+![Screenshot3](assets/images/image-2.png)
  
 
 ## Installation Process:
