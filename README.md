@@ -81,11 +81,9 @@ Each endpoint must include the necessary data in the request body or URL paramet
 13. POST /api/users/:userId/friends/:friendId - add a friend to a user's friend list
 14. DELETE /api/users/:userId/friends/:friendId - remove a friend from a user's friend list
 
-## Deployed Application Link:
-[Deployed Application Link:](https://github.com/YvesHarry/YHD-NoSQL-Social-Network-API)
 
 ## GitHub Repository:
-[GitHub Repository:](https://github.com/YvesHarry/YHD-NoSQL-Social-Network-API)
+[GitHub Repository](https://github.com/YvesHarry/YHD-NoSQL-Social-Network-API)
 
 ## Walkthrough Video:
 [Click Here to Watch](https://drive.google.com/file/d/1ala3Oh2_gqqsCyTMarV0FFwj0hVaIdT5/view)
